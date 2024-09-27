@@ -1,0 +1,49 @@
+#main
+{
+
+    background-color: aqua;
+    height:500px;
+    width:500px;
+    display:flex;
+flex-direction: column;
+align-items: center;
+border-radius:7px;
+    text-align: center;
+    margin-top:58px;
+}
+body
+{
+    
+    display:flex;
+    justify-content: center;
+        align-items: center;
+    background-color: rgb(2, 10, 7);
+}
+#container
+{
+    width:60%;
+    height:60%;
+    
+    border-radius:7px;
+    background-color: darkmagenta;
+}
+.btn
+{
+    width:27%;
+    height: 27%;
+    margin-top:12px;
+    border-radius:11px;
+    font-weight: bolder;
+    font-size:larger;
+    background-color: rgb(226, 240, 32);
+}
+#reset
+{
+    font-weight: bolder;
+    padding:13px;
+    background-color: black;
+    color:azure;
+    position:relative;
+    top:9px;
+    border-radius: 8px;
+}
